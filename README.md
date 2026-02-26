@@ -1,4 +1,4 @@
-#About me
+# About me
 
 Hi there 👋, I'm Roberto Riccucci an unduergaduate Physics student at the University of Pisa. 
 
