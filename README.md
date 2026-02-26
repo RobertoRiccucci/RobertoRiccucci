@@ -5,6 +5,7 @@ Hi there 👋, I'm Roberto Riccucci an unduergaduate Physics student at the Univ
 - 📚 Here you can find my course notes rewritten in LaTeX whenever I get the chance.
 - 👨🏻‍💻 I also share some small projects I've worked on, mostly related to Physics and Computational Mathematics. 
 
+This profile is still a work in progress.
 <!-- Ciao -->
 
 <!--
