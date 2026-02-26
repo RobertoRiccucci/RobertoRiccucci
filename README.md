@@ -1,4 +1,9 @@
-## Hi there 👋
+#About me
+
+Hi there 👋, I'm Roberto Riccucci an unduergaduate Physics student at the University of Pisa. 
+
+- 📚 Here you can find my course notes rewritten in LaTeX whenever I get the chance.
+- 👨🏻‍💻 I also share some small projects I've worked on, mostly related to Physics and Computational Mathematics. 
 
 <!-- Ciao -->
 
