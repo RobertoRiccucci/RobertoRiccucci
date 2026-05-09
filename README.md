@@ -1,24 +1,15 @@
-# About me
+# Ciao, sono Roberto 👋
+Studente di Fisica all'Università di Pisa.
 
-Hi there 👋, I'm Roberto Riccucci an unduergaduate Physics student at the University of Pisa. 
+## Appunti
+Riscrivo i miei appunti di corso in LaTeX , per adesso gli appunti che ho fatto sono:
+- [Appunti di Fisica 2](https://github.com/RobertoRiccucci/Appunti-Fisica-2)
 
-- 📚 Here you can find my course notes rewritten in LaTeX whenever I get the chance.
-- 👨🏻‍💻 I also share some small projects I've worked on, mostly related to Physics and Computational Mathematics. 
+## Progetti
+Piccoli progetti legati alla Fisica e alla Matematica Computazionale, scritti principalmente in Python.
 
-This profile is still a work in progress.
-<!-- Ciao -->
+## Strumenti
+`Python` · `LaTeX` · `Git`
 
-<!--
-**RobertoRiccucci/RobertoRiccucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*Profilo in costruzione*
