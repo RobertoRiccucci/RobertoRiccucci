@@ -8,8 +8,5 @@ Riscrivo i miei appunti di corso in LaTeX , per adesso gli appunti che ho fatto 
 ## Progetti
 Piccoli progetti legati alla Fisica e alla Matematica Computazionale, scritti principalmente in Python.
 
-## Strumenti
-`Python` · `LaTeX` · `Git`
-
 ---
 *Profilo in costruzione*
