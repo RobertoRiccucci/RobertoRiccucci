@@ -1,14 +1,21 @@
-# Ciao, sono Roberto 👋
+# Roberto Riccucci
+
 Studente di Fisica all'Università di Pisa.
 
-## Appunti
-Riscrivo i miei appunti di corso in LaTeX , per adesso gli appunti che ho fatto sono:
-- [Appunti di Fisica 2](https://github.com/RobertoRiccucci/Appunti-Fisica-2)
-- [Commenti Esperienze Laboratorio 2](https://github.com/RobertoRiccucci/Esperienze_Lab2)
-- [Appunti di Chimica Generale](https://github.com/RobertoRiccucci/Chimica)
+## Interessi
+- Fisica computazionale e simulazione numerica
+- Sistemi complessi e meccanica statistica
+- Analisi dei dati
+  
+## Strumenti
+Python (NumPy, SciPy, Matplotlib) · LaTeX · Git
 
-## Progetti
-Piccoli progetti legati alla Fisica e alla Matematica Computazionale, scritti principalmente in Python.
+## Materiale didattico
+Dispense in LaTeX dei corsi del CdL in Fisica, scritte e mantenute per gli altri studenti:
+- [Fisica 2](https://github.com/RobertoRiccucci/Appunti-Fisica-2)
+- [Laboratorio 2 – Analisi delle esperienze](https://github.com/RobertoRiccucci/Esperienze_Lab2)
+- [Chimica Generale](https://github.com/RobertoRiccucci/Chimica)
+- [Fisica 3](https://github.com/RobertoRiccucci/Appunti-Fisica-3)
 
----
-*Profilo in costruzione*
+## Contatti
+[Email](robertoriccucci1304@gmail.com)
