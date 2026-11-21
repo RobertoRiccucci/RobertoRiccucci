@@ -8,7 +8,10 @@ Studente di Fisica all'Università di Pisa.
 - Analisi dei dati
   
 ## Strumenti
-Python (NumPy, SciPy, Matplotlib) · LaTeX · Git
+### Linguaggi 
+Python (NumPy, SciPy, Matplotlib)
+### Tools
+LaTeX - Git - Jupyter 
 
 ## Materiale didattico
 Dispense in LaTeX dei corsi del CdL in Fisica, scritte e mantenute per gli altri studenti:
